@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "PLAY X 성경 (PLAY X Bible)"
+abstract: >-
+  히브리어(WLC)·그리스어 원문에서 현대 한국어로 새로 옮긴 신·구약 66권 전권 번역.
+  본문 전체를 CC BY 4.0으로 공개한다.
+message: "이 번역을 인용할 때 아래 정보를 사용해 주세요."
+type: dataset
+authors:
+  - family-names: "김"
+    given-names: "무송"
+    alias: "PLAY X"
+license: CC-BY-4.0
+repository-code: "https://github.com/PLAYX1/playx-bible"
+url: "https://gods-voice.ex.erci.se"
+keywords:
+  - bible
+  - korean
+  - translation
+  - public-domain-source
+  - hebrew
+  - greek
+date-released: "2026-07-28"
